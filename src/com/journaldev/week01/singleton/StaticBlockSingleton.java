@@ -1,4 +1,4 @@
-package com.journaldev.singleton;
+package com.journaldev.week01.singleton;
 
 public class StaticBlockSingleton {
     private static StaticBlockSingleton instance;

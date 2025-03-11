@@ -1,6 +1,6 @@
-package com.journaldev.design.test;
-import com.journaldev.design.factory.ComputerFactory;
-import com.journaldev.design.model.Computer;
+package com.journaldev.week01.design.test;
+import com.journaldev.week01.design.factory.ComputerFactory;
+import com.journaldev.week01.design.model.Computer;
 public class TestFactory {
     public static void main(String[] args) {
         Computer pc = ComputerFactory.getComputer("pc", "2 GB", "500 GB", "2.4 GHz");

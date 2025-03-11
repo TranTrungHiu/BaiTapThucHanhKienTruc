@@ -1,0 +1,9 @@
+package com.journaldev.week02.ex01;
+
+class ProcessingOrderState implements OrderState {
+    @Override
+    public void handle(Order order) {
+        System.out.println("Đang xử lý: Đóng gói và vận chuyển.");
+        order.setState(new DeliveredOrderState()); // Chuyển sang trạng thái "Đã giao"
+    }
+}

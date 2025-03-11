@@ -1,4 +1,4 @@
-package com.journaldev.singleton;
+package com.journaldev.week01.singleton;
 
 import java.io.Serializable;
 

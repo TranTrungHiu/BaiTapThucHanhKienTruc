@@ -1,4 +1,4 @@
-package com.journaldev.design.model;
+package com.journaldev.week01.design.model;
 
 public class PC extends Computer {
     private String ram;

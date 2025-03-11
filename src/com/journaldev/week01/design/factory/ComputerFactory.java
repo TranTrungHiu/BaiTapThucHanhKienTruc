@@ -1,8 +1,8 @@
-package com.journaldev.design.factory;
+package com.journaldev.week01.design.factory;
 
-import com.journaldev.design.model.Computer;
-import com.journaldev.design.model.PC;
-import com.journaldev.design.model.Server;
+import com.journaldev.week01.design.model.Computer;
+import com.journaldev.week01.design.model.PC;
+import com.journaldev.week01.design.model.Server;
 
 public class ComputerFactory {
     public static Computer getComputer(String type, String ram, String
