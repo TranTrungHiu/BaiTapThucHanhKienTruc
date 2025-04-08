@@ -54,19 +54,47 @@ The Factory Pattern is a creational design pattern that provides an interface fo
 
 ---
 
-## Week03
+## Week04
 
-## Observer Pattern
-
-### 📌 Proof of Implementation:
-
-![Singleton Pattern - Reflection Test](HinhAnhMinhChung/Week03/Observer%20Pattern%20Task/TaskManagementTest.png)
-
-## Observer Pattern Task
+## Flask App
 
 ### 📌 Proof of Implementation:
 
-![Singleton Pattern - Reflection Test](HinhAnhMinhChung/Week03/Observer%20Pattern/ObserverPatternTest.png)
+![Demo](HinhAnhMinhChung/Week04/FlaskApp/FlaskApp01.png)
+
+![Demo](HinhAnhMinhChung/Week04/FlaskApp/FlaskApp02.png)
+
+![Demo](HinhAnhMinhChung/Week04/FlaskApp/FlaskApp03.png)
+
+## Go App
+
+### 📌 Proof of Implementation:
+
+![Demo](HinhAnhMinhChung/Week04/GoApp/GoApp01.png)
+
+![Demo](HinhAnhMinhChung/Week04/GoApp/GoApp02.png)
+
+![Demo](HinhAnhMinhChung/Week04/GoApp/GoApp03.png)
+
+## Nginx
+
+### 📌 Proof of Implementation:
+
+![Demo](HinhAnhMinhChung/Week04/Nginx/Nginx.png)
+
+## Nodejs App
+
+### 📌 Proof of Implementation:
+
+![Demo](HinhAnhMinhChung/Week04/NodejsApp/NodejsApp01.png)
+
+![Demo](HinhAnhMinhChung/Week04/NodejsApp/NodejsApp02.png)
+
+## React App
+
+### 📌 Proof of Implementation:
+
+![Demo](HinhAnhMinhChung/Week04/ReactApp/ReactApp.png)
 
 ---
 
