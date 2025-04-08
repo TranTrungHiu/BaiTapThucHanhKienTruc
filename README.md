@@ -54,6 +54,22 @@ The Factory Pattern is a creational design pattern that provides an interface fo
 
 ---
 
+## Week03
+
+## Observer Pattern
+
+### 📌 Proof of Implementation:
+
+![Singleton Pattern - Reflection Test](HinhAnhMinhChung/Week03/Observer%20Pattern%20Task/TaskManagementTest.png)
+
+## Observer Pattern Task
+
+### 📌 Proof of Implementation:
+
+![Singleton Pattern - Reflection Test](HinhAnhMinhChung/Week03/Observer%20Pattern/ObserverPatternTest.png)
+
+---
+
 ## How to Run
 
 1. Clone the repository:
